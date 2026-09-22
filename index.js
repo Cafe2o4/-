@@ -20,7 +20,8 @@ const sources = [
   "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/裤佬SVIP音源(二改整...).js",
   "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/西瓜聚合.js",
   "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/长青SVIP音源v1.3.0.pr...js",
-  "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/非常刀v5.js"
+  "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/非常刀v5.js",
+  "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cafe2o4/lxsource/main/%F0%9D%96%A7%E0%B5%BF%E1%A5%A3%E1%A5%A3%E1%9D%88%20%E1%B5%9C%E1%9D%88%E1%B5%92%E1%A5%A3%E1%A5%AF260809.js"
 ];
 module.exports = {
   sources
